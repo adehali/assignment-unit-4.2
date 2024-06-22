@@ -1,0 +1,40 @@
+header {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+
+body {
+    background-color: hwb(0 91% 6%);
+}
+
+.info {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+.info h2 {
+    background-color: #584e99;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-inline-start: 26%;
+    margin-inline-end: 26%;
+}
+
+.info h3 {
+    background-color:#584e99;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-inline-start: 26%;
+    margin-inline-end: 26%;
+}
+
+.info img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}
+
